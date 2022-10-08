@@ -22,3 +22,6 @@ install **Jupyter** :   [https://marketplace.visualstudio.com/items?itemName=ms-
 2. [challenge 2](./Whiteboard/2.jpg)
 3. [challenge 3](./Whiteboard/3.jpg)
 4. [challenge 4](./Whiteboard/4.jpg)
+
+# Pull request 
+* [pull request](https://github.com/amani51/Leetcode_Practice/pull/1)
